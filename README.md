@@ -378,3 +378,5 @@ Los módulos son una excelente forma de distribuir el código por funcionalidad 
     console.log(currentStock);
   </code>
 </pre>
+
+#Usando librerias de terceros
